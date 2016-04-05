@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DKMH</string>
+    <string name="app_name">Tạo môn học</string>
     <string name="api_url">http://128.199.126.95/dkmh/api/course/</string>
     <string name="title_activity_main2">Main2Activity</string>
 
